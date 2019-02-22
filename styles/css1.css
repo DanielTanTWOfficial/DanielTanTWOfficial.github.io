@@ -1,0 +1,30 @@
+.iconpad {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.pic {
+	display: block;
+	margin: auto auto;
+}
+
+.talignc {
+	text-align: center;
+}
+
+.padr {
+	padding-right: 10px;
+}
+
+.padt {
+	padding-top: 50px;
+}
+
+.progress-label {
+  float: left;
+  margin-right: 1em;
+}
+
+.label {
+	float: left;
+}
